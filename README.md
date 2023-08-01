@@ -15,6 +15,14 @@
 
 ## 📫 How to reach me
 
-You can  send me an email 📧 at any of these options:
+You can  send me an email 📧 at any of these addresses:
 
 | [eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com) | [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co) | [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co) | [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr) |
+
+## 📝 List of publications
+
+[Here](https://eamontoyaa.github.io/publications.html), you can find a list of my publications.
+
+## 📝 Development projects
+
+[https://eamontoyaa.github.io/development.html](./development.html), you can find a list of application software and other development projects I have worked on.  Most of them are colavorative works. You'll find the links to the repositories and the documentation, as well as the credits to the other contributors.
