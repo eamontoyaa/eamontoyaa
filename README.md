@@ -8,7 +8,7 @@ Also, these are some direct links to my profile on different platforms:
 
 ## 📝 List of publications
 
-[Here](https://eamontoyaa.github.io/publications.html), you can find a list of my publications.
+[Here](https://eamontoyaa.github.io/publications.html), you can find a list of my publications. You'll find the links to the papers, but if your institution or you don't have a subscription to the publisher sites, you can send me an email and I'll be happy to share them with you.
 
 ## 💻 Development projects
 
